@@ -14,3 +14,4 @@ chmod 600 ~/.ssh/authorized_keys
 1. [shrc](https://github.com/Russell91/sshrc) — bring your .bashrc, .vimrc, etc. with you when you ssh
 2. http://www.theunixschool.com/2012/06/sed-25-examples-to-delete-line-or.html
 3. http://www.theunixschool.com/2012/04/what-is-cdpath.html
+4. http://www.theunixschool.com/2010/06/what-is-suid.html
