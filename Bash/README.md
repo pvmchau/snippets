@@ -8,6 +8,10 @@ chmod 700 ~/.ssh
 chmod 600 ~/.ssh/authorized_keys
 ```
 
+### Create sock
+
+    alias sock='ssh -D 127.0.0.1:8989 -fNg host'
+
 ### Others
 
 1. [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt)
