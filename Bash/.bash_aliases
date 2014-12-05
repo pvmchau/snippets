@@ -21,3 +21,5 @@ alias g:pl='git pull'
 alias g:s='git status'
 
 alias dtr='drush test-clean; drush test-run --dirty --field-labels=0'
+
+# alias composer='hhvm /usr/local/bin/composer'
