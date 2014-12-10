@@ -1,7 +1,7 @@
 <?php
 
 function my_module_views_data() {
-  $data['my_table']['hasResponse'] = [
+  $data['my_table']['my_custom_column'] = [
       'field' => [
           'title'          => 'My field',
           'field'          => 'my_column',
